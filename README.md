@@ -10,3 +10,5 @@ Topics:<br>
   
 4. Dashboard made using Ploty<br>
 5. Enjoy!
+Notes: 
+This is a Jupyter notebook! U can convert to .py file if u want!
